@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" type="image/x-icon" href="src/resources/favicon.ico">
+    <link rel="stylesheet" href="src/css/bootstrap.min.css">
+    <link rel="stylesheet" href="src/css/custom.css">
+
+    <title>Planit</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand fixed-top justify-content-center navbar-light bg-light">
+      <div class="row w-100" align="center">
+        <div class="col">
+          <a class="navbar-brand" href="https://github.com/tanjeffreyz/planit">
+            <img style="margin-bottom: 5px;" src="src/resources/planit_logo.png" height="20px" />
+            Planit
+          </a>
+          <div id="now" class="small"></div>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container-fluid section mx-2">
+      <div id="calendars" class="mx-auto" style="max-width: 1000px;"></div>
+    </div>
+
+    <script src="src/js/bootstrap.bundle.min.js"></script>
+    <script src="src/js/chart.min.js"></script>
+    <script src="src/js/chartjs-plugin-annotation.min.js"></script>
+
+    <!-- Import data -->
+    <script src="data/assignments.js"></script>
+
+    <!-- Custom JavaScript -->
+    <script src="src/js/custom.js"></script>
+  </body>
+</html>
