@@ -218,6 +218,13 @@ assignments = {
       "dueDate": "2022-11-04T23:00:00",
       "link": "https://www.gradescope.com/courses/415727",
       "submitted": false
+    },
+    {
+      "title": "HW 10 Autograder",
+      "course": "Data 8",
+      "dueDate": "2022-11-09T23:00:00",
+      "link": "https://www.gradescope.com/courses/415727",
+      "submitted": false
     }
   ],
   "MATH 1B": [
