@@ -299,6 +299,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Homework 11",
+      "course": "MATH 1B",
+      "dueDate": "2022-11-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/422777",
+      "submitted": false
+    },
+    {
       "title": "Project 1",
       "course": "MATH 1B",
       "dueDate": "2022-09-09T23:59:00",
