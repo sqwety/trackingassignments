@@ -74,8 +74,8 @@ assignments = {
       "title": "Discussion Week 11: Electrochemistry",
       "course": "Chem 1A  Fall 2022",
       "dueDate": "2022-11-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/422087",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/422087/assignments/2345087/submissions/146953030",
+      "submitted": true
     }
   ],
   "Data 8": [
