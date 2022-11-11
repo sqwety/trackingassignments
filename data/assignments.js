@@ -334,6 +334,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Homework 12",
+      "course": "MATH 1B",
+      "dueDate": "2022-11-15T23:59:00",
+      "link": "https://www.gradescope.com/courses/422777",
+      "submitted": false
+    },
+    {
       "title": "Project 1",
       "course": "MATH 1B",
       "dueDate": "2022-09-09T23:59:00",
@@ -360,6 +367,13 @@ assignments = {
       "dueDate": "2022-11-04T23:59:00",
       "link": "https://www.gradescope.com/courses/422777/assignments/2202220/submissions/146667945",
       "submitted": true
+    },
+    {
+      "title": "Project 5",
+      "course": "MATH 1B",
+      "dueDate": "2022-11-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/422777",
+      "submitted": false
     }
   ]
 };
