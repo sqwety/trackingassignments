@@ -223,8 +223,8 @@ assignments = {
       "title": "Project 2 Autograder",
       "course": "Data 8",
       "dueDate": "2022-11-11T23:00:00",
-      "link": "https://www.gradescope.com/courses/415727",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/415727/assignments/2391855/submissions/148335334",
+      "submitted": true
     },
     {
       "title": "Project 2 Checkpoint",
