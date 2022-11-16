@@ -83,6 +83,13 @@ assignments = {
       "dueDate": "2022-11-17T23:59:00",
       "link": "https://www.gradescope.com/courses/422087/assignments/2423963/submissions/148640809",
       "submitted": true
+    },
+    {
+      "title": "Discussion Week 13: Quantum II",
+      "course": "Chem 1A  Fall 2022",
+      "dueDate": "2022-11-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/422087",
+      "submitted": false
     }
   ],
   "Data 8": [
