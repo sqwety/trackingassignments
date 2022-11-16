@@ -344,8 +344,8 @@ assignments = {
       "title": "Homework 12",
       "course": "MATH 1B",
       "dueDate": "2022-11-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/422777",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/422777/assignments/2202161/submissions/149169104",
+      "submitted": true
     },
     {
       "title": "Project 1",
