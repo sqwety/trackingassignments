@@ -265,8 +265,8 @@ assignments = {
       "title": "HW 11 Autograder",
       "course": "Data 8",
       "dueDate": "2022-11-18T23:00:00",
-      "link": "https://www.gradescope.com/courses/415727",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/415727/assignments/2426621/submissions/150028664",
+      "submitted": true
     }
   ],
   "MATH 1B": [
