@@ -393,8 +393,8 @@ assignments = {
       "title": "Project 5",
       "course": "MATH 1B",
       "dueDate": "2022-11-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/422777",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/422777/assignments/2202221/submissions/150035778",
+      "submitted": true
     }
   ]
 };
