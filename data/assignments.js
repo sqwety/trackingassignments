@@ -265,8 +265,8 @@ assignments = {
       "title": "Project 3 Autograder",
       "course": "Data 8",
       "dueDate": "2022-12-03T23:00:00",
-      "link": "https://www.gradescope.com/courses/415727",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/415727/assignments/2419579/submissions/152327840",
+      "submitted": true
     },
     {
       "title": "HW 11 Autograder",
