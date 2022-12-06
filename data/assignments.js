@@ -95,7 +95,7 @@ assignments = {
       "title": "Discussion Week 14: Quantum III",
       "course": "Chem 1A  Fall 2022",
       "dueDate": "2022-12-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/422087/assignments/2423971/submissions/151205569",
+      "link": "https://www.gradescope.com/courses/422087/assignments/2423971/submissions/152718584",
       "submitted": true
     }
   ],
