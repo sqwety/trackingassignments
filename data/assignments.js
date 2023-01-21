@@ -3,7 +3,7 @@ assignments = {
     {
       "title": "Week 2 Homework (Ch 2: Kinematics)",
       "course": "7A 001/003",
-      "dueDate": "2023-01-27T23:00:00",
+      "dueDate": "2023-01-27T23:59:00",
       "link": "https://www.gradescope.com/courses/495805",
       "submitted": false
     }
