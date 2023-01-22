@@ -1,7 +1,7 @@
 assignments = {
   "7A 001/003": [
     {
-      "title": "Week 2 Homework (Ch 2: Kinematics)",
+      "title": "Week 2 Homework (Ch 2)",
       "course": "7A 001/003",
       "dueDate": "2023-01-27T23:59:00",
       "link": "https://www.gradescope.com/courses/495805",
