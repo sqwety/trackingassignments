@@ -13,6 +13,13 @@ assignments = {
       "dueDate": "2023-01-27T23:59:00",
       "link": "https://www.gradescope.com/courses/495805/assignments/2603660/submissions/157749638",
       "submitted": true
+    },
+    {
+      "title": "Week 3 Homework (Ch 3)",
+      "course": "7A 001/003",
+      "dueDate": "2023-02-03T23:00:00",
+      "link": "https://www.gradescope.com/courses/495805",
+      "submitted": false
     }
   ],
   "MATH 53 SP 23": [
