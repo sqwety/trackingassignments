@@ -37,5 +37,6 @@ assignments = {
       "link": "https://www.gradescope.com/courses/498818/assignments/2592311/submissions/158125558",
       "submitted": true
     }
-  ]
+  ],
+  "Math 53": []
 };
