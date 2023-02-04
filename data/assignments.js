@@ -18,8 +18,8 @@ assignments = {
       "title": "Week 3 Homework (Ch 3)",
       "course": "7A 001/003",
       "dueDate": "2023-02-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/495805",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/495805/assignments/2618084/submissions/159495583",
+      "submitted": true
     },
     {
       "title": "Week 4 Homework (Ch 4)",
