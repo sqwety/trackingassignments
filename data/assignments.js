@@ -27,6 +27,13 @@ assignments = {
       "dueDate": "2023-02-10T23:59:00",
       "link": "https://www.gradescope.com/courses/495805",
       "submitted": false
+    },
+    {
+      "title": "Week 5 Homework (Ch 5)",
+      "course": "7A 001/003",
+      "dueDate": "2023-02-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/495805",
+      "submitted": false
     }
   ],
   "MATH 53 SP 23": [
