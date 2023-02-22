@@ -43,6 +43,7 @@ assignments = {
       "submitted": false
     }
   ],
+  "7A Lecture 1/3 Exams": [],
   "MATH 53 SP 23": [
     {
       "title": "Homework 1",
