@@ -41,6 +41,13 @@ assignments = {
       "dueDate": "2023-02-27T23:59:00",
       "link": "https://www.gradescope.com/courses/495805",
       "submitted": false
+    },
+    {
+      "title": "Week 7 Homework (Ch 7)",
+      "course": "7A 001/003",
+      "dueDate": "2023-03-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/495805",
+      "submitted": false
     }
   ],
   "7A Lecture 1/3 Exams": [],
