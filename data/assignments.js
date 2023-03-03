@@ -51,6 +51,7 @@ assignments = {
     }
   ],
   "7A Lecture 1/3 Exams": [],
+  "E7": [],
   "MATH 53 SP 23": [
     {
       "title": "Homework 1",
