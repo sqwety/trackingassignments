@@ -106,8 +106,8 @@ assignments = {
       "title": "Homework 6",
       "course": "MATH 53 SP 23",
       "dueDate": "2023-03-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/498818",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/498818/assignments/2738579/submissions/168417150",
+      "submitted": true
     }
   ],
   "Math 53": []
