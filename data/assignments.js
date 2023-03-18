@@ -60,8 +60,8 @@ assignments = {
       "title": "Week 9 Homework (Ch 9)",
       "course": "7A 001/003",
       "dueDate": "2023-03-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/495805",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/495805/assignments/2703257/submissions/169273544",
+      "submitted": true
     },
     {
       "title": "Week 10 Homework (Ch 10)",
@@ -115,6 +115,13 @@ assignments = {
       "dueDate": "2023-03-13T23:59:00",
       "link": "https://www.gradescope.com/courses/498818/assignments/2738579/submissions/168417150",
       "submitted": true
+    },
+    {
+      "title": "Homework 7",
+      "course": "MATH 53 SP 23",
+      "dueDate": "2023-03-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/498818",
+      "submitted": false
     }
   ],
   "Math 53": []
