@@ -74,8 +74,8 @@ assignments = {
       "title": "Week 11 Homework (Ch 10 & 11)",
       "course": "7A 001/003",
       "dueDate": "2023-04-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/495805",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/495805/assignments/2703260/submissions/173829107",
+      "submitted": true
     },
     {
       "title": "Week 12 Homework (Ch 12 & 14)",
