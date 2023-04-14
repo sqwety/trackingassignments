@@ -80,7 +80,7 @@ assignments = {
     {
       "title": "Week 12 Homework (Ch 12 & 14)",
       "course": "7A 001/003",
-      "dueDate": "2023-04-14T23:59:00",
+      "dueDate": "2023-04-21T23:59:00",
       "link": "https://www.gradescope.com/courses/495805",
       "submitted": false
     }
