@@ -95,8 +95,8 @@ assignments = {
       "title": "Week 14 Homework (Ch 13)",
       "course": "7A 001/003",
       "dueDate": "2023-04-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/495805",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/495805/assignments/2830563/submissions/178282102",
+      "submitted": true
     }
   ],
   "7A Lecture 1/3 Exams": [],
