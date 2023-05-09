@@ -105,70 +105,70 @@ assignments = {
     {
       "title": "Homework 1",
       "course": "MATH 53 SP 23",
-      "dueDate": "2023-01-30T23:59:00",
+      "dueDate": "2023-05-11T23:59:00",
       "link": "https://www.gradescope.com/courses/498818/assignments/2592311/submissions/158125558",
       "submitted": true
     },
     {
       "title": "Homework 2",
       "course": "MATH 53 SP 23",
-      "dueDate": "2023-02-06T23:59:00",
+      "dueDate": "2023-05-11T23:59:00",
       "link": "https://www.gradescope.com/courses/498818/assignments/2637943/submissions/160060045",
       "submitted": true
     },
     {
       "title": "Homework 3",
       "course": "MATH 53 SP 23",
-      "dueDate": "2023-02-22T23:59:00",
+      "dueDate": "2023-05-11T23:59:00",
       "link": "https://www.gradescope.com/courses/498818/assignments/2677361/submissions/163771211",
       "submitted": true
     },
     {
       "title": "Homework 4",
       "course": "MATH 53 SP 23",
-      "dueDate": "2023-02-27T23:59:00",
+      "dueDate": "2023-05-11T23:59:00",
       "link": "https://www.gradescope.com/courses/498818",
       "submitted": false
     },
     {
       "title": "Homework 5",
       "course": "MATH 53 SP 23",
-      "dueDate": "2023-03-06T23:59:00",
+      "dueDate": "2023-05-11T23:59:00",
       "link": "https://www.gradescope.com/courses/498818/assignments/2720737/submissions/166956888",
       "submitted": true
     },
     {
       "title": "Homework 6",
       "course": "MATH 53 SP 23",
-      "dueDate": "2023-03-13T23:59:00",
+      "dueDate": "2023-05-11T23:59:00",
       "link": "https://www.gradescope.com/courses/498818/assignments/2738579/submissions/168417150",
       "submitted": true
     },
     {
       "title": "Homework 7",
       "course": "MATH 53 SP 23",
-      "dueDate": "2023-03-20T23:59:00",
+      "dueDate": "2023-05-11T23:59:00",
       "link": "https://www.gradescope.com/courses/498818/assignments/2752564/submissions/169702721",
       "submitted": true
     },
     {
       "title": "Homework 8",
       "course": "MATH 53 SP 23",
-      "dueDate": "2023-04-03T23:59:00",
+      "dueDate": "2023-05-11T23:59:00",
       "link": "https://www.gradescope.com/courses/498818",
       "submitted": false
     },
     {
       "title": "Homework 9",
       "course": "MATH 53 SP 23",
-      "dueDate": "2023-04-10T23:59:00",
+      "dueDate": "2023-05-11T23:59:00",
       "link": "https://www.gradescope.com/courses/498818/assignments/2807518/submissions/173868448",
       "submitted": true
     },
     {
       "title": "Homework 10",
       "course": "MATH 53 SP 23",
-      "dueDate": "2023-04-17T23:59:00",
+      "dueDate": "2023-05-11T23:59:00",
       "link": "https://www.gradescope.com/courses/498818/assignments/2822540/submissions/175446335",
       "submitted": true
     }
