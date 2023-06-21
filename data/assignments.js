@@ -8,6 +8,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Lab 2: Conditionals, Loops, Arrays, and an Introduction to Testing",
+      "course": "CS 61BL",
+      "dueDate": "2023-04-16T18:00:00",
+      "link": "https://www.gradescope.com/courses/545060",
+      "submitted": false
+    },
+    {
       "title": "Being a Good Classmate",
       "course": "CS 61BL",
       "dueDate": "2023-06-25T23:59:00",
