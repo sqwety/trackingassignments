@@ -15,6 +15,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Lab 3: Test Driven Development and Debugging",
+      "course": "CS 61BL",
+      "dueDate": "2023-05-20T18:00:00",
+      "link": "https://www.gradescope.com/courses/545060",
+      "submitted": false
+    },
+    {
       "title": "Being a Good Classmate",
       "course": "CS 61BL",
       "dueDate": "2023-06-25T23:59:00",
