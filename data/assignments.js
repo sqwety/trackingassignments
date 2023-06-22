@@ -4,7 +4,7 @@ assignments = {
       "title": "Lab 1: Java and Git",
       "course": "CS 61BL",
       "dueDate": "2023-06-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/545060/assignments/2917541/submissions/183896127",
+      "link": "https://www.gradescope.com/courses/545060/assignments/2917541/submissions/183900750",
       "submitted": true
     },
     {
