@@ -41,6 +41,34 @@ assignments = {
       "dueDate": "2023-06-26T23:59:00",
       "link": "https://www.gradescope.com/courses/545060/assignments/2953622/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Lab 4: Primitives and Objects",
+      "course": "CS 61BL",
+      "dueDate": "2023-06-27T18:00:00",
+      "link": "https://www.gradescope.com/courses/545060",
+      "submitted": false
+    },
+    {
+      "title": "Project 1A: LinkedListDeque",
+      "course": "CS 61BL",
+      "dueDate": "2023-07-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/545060",
+      "submitted": false
+    },
+    {
+      "title": "Project 1B: ArrayDeque",
+      "course": "CS 61BL",
+      "dueDate": "2023-07-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/545060",
+      "submitted": false
+    },
+    {
+      "title": "Project 1C: Deque Enhancements",
+      "course": "CS 61BL",
+      "dueDate": "2023-07-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/545060",
+      "submitted": false
     }
   ]
 };
