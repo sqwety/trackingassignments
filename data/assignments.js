@@ -69,6 +69,27 @@ assignments = {
       "dueDate": "2023-07-02T23:59:00",
       "link": "https://www.gradescope.com/courses/545060",
       "submitted": false
+    },
+    {
+      "title": "Lab 6: Inheritance (Non-coding)",
+      "course": "CS 61BL",
+      "dueDate": "2023-06-29T23:59:00",
+      "link": "https://www.gradescope.com/courses/545060/assignments/2958613/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Lab 6: Inheritance (Coding)",
+      "course": "CS 61BL",
+      "dueDate": "2023-06-29T23:59:00",
+      "link": "https://www.gradescope.com/courses/545060",
+      "submitted": false
+    },
+    {
+      "title": "Lab 7: Comparison, Exceptions, and Iteration",
+      "course": "CS 61BL",
+      "dueDate": "2023-06-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/545060",
+      "submitted": false
     }
   ]
 };
