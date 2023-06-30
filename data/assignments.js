@@ -102,7 +102,7 @@ assignments = {
       "title": "Redemption Quiz 1",
       "course": "CS 61BL",
       "dueDate": "2023-06-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/545060/assignments/2962155/submissions/new",
+      "link": "https://www.gradescope.com/courses/545060",
       "submitted": false
     }
   ]
