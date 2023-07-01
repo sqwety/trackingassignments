@@ -104,6 +104,13 @@ assignments = {
       "dueDate": "2023-06-29T23:59:00",
       "link": "https://www.gradescope.com/courses/545060",
       "submitted": false
+    },
+    {
+      "title": "Quiz 2",
+      "course": "CS 61BL",
+      "dueDate": "2023-07-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/545060/assignments/2964091/submissions/new",
+      "submitted": false
     }
   ]
 };
