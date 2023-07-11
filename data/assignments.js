@@ -174,6 +174,13 @@ assignments = {
       "dueDate": "2023-07-10T00:00:00",
       "link": "https://www.gradescope.com/courses/545060",
       "submitted": false
+    },
+    {
+      "title": "Lab 12: Balanced Search Structures",
+      "course": "CS 61BL",
+      "dueDate": "2023-07-12T00:00:00",
+      "link": "https://www.gradescope.com/courses/545060",
+      "submitted": false
     }
   ]
 };
