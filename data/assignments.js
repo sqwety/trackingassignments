@@ -202,6 +202,20 @@ assignments = {
       "dueDate": "2023-08-25T23:59:00",
       "link": "https://www.gradescope.com/courses/545060/assignments/2977888/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Midterm ",
+      "course": "CS 61BL",
+      "dueDate": "2023-07-14T21:30:00",
+      "link": "https://www.gradescope.com/courses/545060",
+      "submitted": false
+    },
+    {
+      "title": "[DSP] Midterm",
+      "course": "CS 61BL",
+      "dueDate": "2023-07-14T22:30:00",
+      "link": "https://www.gradescope.com/courses/545060",
+      "submitted": false
     }
   ]
 };
