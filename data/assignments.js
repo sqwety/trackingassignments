@@ -262,7 +262,7 @@ assignments = {
     {
       "title": "Lab 16: BYOW Intro",
       "course": "CS 61BL",
-      "dueDate": "2023-07-24T00:00:00",
+      "dueDate": "2023-07-24T04:00:00",
       "link": "https://www.gradescope.com/courses/545060",
       "submitted": false
     }
