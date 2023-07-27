@@ -279,6 +279,13 @@ assignments = {
       "dueDate": "2023-07-26T00:00:00",
       "link": "https://www.gradescope.com/courses/545060",
       "submitted": false
+    },
+    {
+      "title": "Lab 19: Minimum Spanning Trees",
+      "course": "CS 61BL",
+      "dueDate": "2023-07-27T00:00:00",
+      "link": "https://www.gradescope.com/courses/545060",
+      "submitted": false
     }
   ]
 };
