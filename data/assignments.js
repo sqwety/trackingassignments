@@ -248,14 +248,14 @@ assignments = {
     {
       "title": "Project 3 Phase 1: World Generation",
       "course": "CS 61BL",
-      "dueDate": "2023-08-04T23:59:00",
+      "dueDate": "2023-07-31T23:59:00",
       "link": "https://www.gradescope.com/courses/545060",
       "submitted": false
     },
     {
       "title": "Project 3 Phase 2: Interactivity",
       "course": "CS 61BL",
-      "dueDate": "2023-08-04T23:59:00",
+      "dueDate": "2023-08-07T23:59:00",
       "link": "https://www.gradescope.com/courses/545060",
       "submitted": false
     },
