@@ -291,7 +291,7 @@ assignments = {
       "title": "Quiz 6",
       "course": "CS 61BL",
       "dueDate": "2023-08-01T00:30:00",
-      "link": "https://www.gradescope.com/courses/545060/assignments/2991451/submissions/new",
+      "link": "https://www.gradescope.com/courses/545060",
       "submitted": false
     },
     {
@@ -318,7 +318,7 @@ assignments = {
     {
       "title": "Lab 21: Comparison-Based Sorts 2",
       "course": "CS 61BL",
-      "dueDate": "2023-04-08T23:59:00",
+      "dueDate": "2023-08-01T00:00:00",
       "link": "https://www.gradescope.com/courses/545060",
       "submitted": false
     }
