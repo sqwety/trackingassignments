@@ -164,7 +164,7 @@ assignments = {
     {
       "title": "Remote Practice Exam",
       "course": "CS 61BL",
-      "dueDate": "2023-07-14T09:30:00",
+      "dueDate": "2023-08-11T12:00:00",
       "link": "https://www.gradescope.com/courses/545060",
       "submitted": false
     },
