@@ -342,6 +342,13 @@ assignments = {
       "dueDate": "2023-08-07T23:59:00",
       "link": "https://www.gradescope.com/courses/545060/assignments/3002402/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Lab 23: Final Review",
+      "course": "CS 61BL",
+      "dueDate": "2023-08-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/545060/assignments/3005816/submissions/new",
+      "submitted": false
     }
   ]
 };
