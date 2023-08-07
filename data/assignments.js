@@ -137,7 +137,7 @@ assignments = {
       "title": "Lab 9: Runtime",
       "course": "CS 61BL",
       "dueDate": "2023-07-06T14:52:00",
-      "link": "https://www.gradescope.com/courses/545060/assignments/2967198/submissions/new",
+      "link": "https://www.gradescope.com/courses/545060",
       "submitted": false
     },
     {
