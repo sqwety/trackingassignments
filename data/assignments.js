@@ -340,7 +340,7 @@ assignments = {
       "title": "Quiz 7",
       "course": "CS 61BL",
       "dueDate": "2023-08-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/545060/assignments/3002402/submissions/new",
+      "link": "https://www.gradescope.com/courses/545060",
       "submitted": false
     },
     {
