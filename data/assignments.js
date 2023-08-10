@@ -192,8 +192,8 @@ assignments = {
     {
       "title": "[OPTIONAL] Quiz 4",
       "course": "CS 61BL",
-      "dueDate": "2023-08-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/545060/assignments/2976462/submissions/new",
+      "dueDate": "2023-08-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/545060",
       "submitted": false
     },
     {
@@ -355,6 +355,13 @@ assignments = {
       "course": "CS 61BL",
       "dueDate": "2023-08-10T23:59:00",
       "link": "https://www.gradescope.com/courses/545060/assignments/3024894/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Redemption Quiz 7",
+      "course": "CS 61BL",
+      "dueDate": "2023-08-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/545060/assignments/3029216/submissions/new",
       "submitted": false
     }
   ]
