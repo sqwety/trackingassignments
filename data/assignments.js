@@ -347,7 +347,7 @@ assignments = {
       "title": "Lab 23: Final Review",
       "course": "CS 61BL",
       "dueDate": "2023-08-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/545060/assignments/3005816/submissions/new",
+      "link": "https://www.gradescope.com/courses/545060",
       "submitted": false
     },
     {
@@ -361,7 +361,7 @@ assignments = {
       "title": "Redemption Quiz 7",
       "course": "CS 61BL",
       "dueDate": "2023-08-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/545060/assignments/3029216/submissions/new",
+      "link": "https://www.gradescope.com/courses/545060",
       "submitted": false
     }
   ]
