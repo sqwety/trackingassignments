@@ -379,16 +379,16 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Final",
+      "title": "[Alternate 1] Final",
       "course": "CS 61BL",
-      "dueDate": "2023-08-11T21:30:00",
+      "dueDate": "2023-08-11T18:30:00",
       "link": "https://www.gradescope.com/courses/545060",
       "submitted": false
     },
     {
-      "title": "[Alternate 1] Final",
+      "title": "[Alternate 2] Final",
       "course": "CS 61BL",
-      "dueDate": "2023-08-11T18:30:00",
+      "dueDate": "2023-08-12T11:30:00",
       "link": "https://www.gradescope.com/courses/545060",
       "submitted": false
     }
