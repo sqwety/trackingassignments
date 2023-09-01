@@ -4,8 +4,8 @@ assignments = {
       "title": "Homework 1",
       "course": "CE 11",
       "dueDate": "2023-09-01T10:10:00",
-      "link": "https://www.gradescope.com/courses/584827",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/584827/assignments/3194959/submissions/189738149",
+      "submitted": true
     }
   ],
   "CE 93": [
