@@ -15,6 +15,7 @@ assignments = {
       "submitted": false
     }
   ],
+  "CE 70": [],
   "CE 93": [
     {
       "title": "HW02",
