@@ -15,7 +15,15 @@ assignments = {
       "submitted": true
     }
   ],
-  "CE 70": [],
+  "CE 70": [
+    {
+      "title": " Metamorphic Rocks Identification",
+      "course": "CE 70",
+      "dueDate": "2023-10-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/629573",
+      "submitted": false
+    }
+  ],
   "CE 93": [
     {
       "title": "HW02",
