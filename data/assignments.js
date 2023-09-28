@@ -43,8 +43,8 @@ assignments = {
       "title": "HW04",
       "course": "CE 93",
       "dueDate": "2023-09-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/584977",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/584977/assignments/3404934/submissions/197478728",
+      "submitted": true
     }
   ]
 };
