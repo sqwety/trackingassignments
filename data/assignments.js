@@ -27,8 +27,8 @@ assignments = {
       "title": " Metamorphic Rocks Identification",
       "course": "CE 70",
       "dueDate": "2023-10-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/629573",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/629573/assignments/3416298/submissions/198692232",
+      "submitted": true
     },
     {
       "title": "Assignment 4",
