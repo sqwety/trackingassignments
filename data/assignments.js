@@ -96,7 +96,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Homework 6",
+      "title": "HW06",
       "course": "CE 93",
       "dueDate": "2023-10-19T11:59:00",
       "link": "https://www.gradescope.com/courses/584977",
