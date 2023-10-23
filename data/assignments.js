@@ -27,6 +27,13 @@ assignments = {
       "dueDate": "2023-10-20T10:10:00",
       "link": "https://www.gradescope.com/courses/584827",
       "submitted": false
+    },
+    {
+      "title": "Homework 5",
+      "course": "CE 11",
+      "dueDate": "2023-10-27T10:10:00",
+      "link": "https://www.gradescope.com/courses/584827",
+      "submitted": false
     }
   ],
   "CE 70": [
