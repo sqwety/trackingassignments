@@ -71,6 +71,13 @@ assignments = {
       "dueDate": "2023-10-26T23:59:00",
       "link": "https://www.gradescope.com/courses/629573",
       "submitted": false
+    },
+    {
+      "title": "Frequency Analysis",
+      "course": "CE 70",
+      "dueDate": "2023-11-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/629573",
+      "submitted": false
     }
   ],
   "CE 93": [
