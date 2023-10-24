@@ -25,8 +25,8 @@ assignments = {
       "title": "Homework 4",
       "course": "CE 11",
       "dueDate": "2023-10-20T10:10:00",
-      "link": "https://www.gradescope.com/courses/584827",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/584827/assignments/3523612/submissions/205552248",
+      "submitted": true
     },
     {
       "title": "Homework 5",
