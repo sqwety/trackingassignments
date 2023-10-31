@@ -78,6 +78,13 @@ assignments = {
       "dueDate": "2023-11-02T23:59:00",
       "link": "https://www.gradescope.com/courses/629573/assignments/3580013/submissions/206165532",
       "submitted": true
+    },
+    {
+      "title": "Assignment 6",
+      "course": "CE 70",
+      "dueDate": "2023-11-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/629573",
+      "submitted": false
     }
   ],
   "CE 93": [
