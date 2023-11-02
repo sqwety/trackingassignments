@@ -129,6 +129,20 @@ assignments = {
       "dueDate": "2023-11-01T23:59:00",
       "link": "https://www.gradescope.com/courses/584977",
       "submitted": false
+    },
+    {
+      "title": "[PDF] Project Preliminary Submission ",
+      "course": "CE 93",
+      "dueDate": "2023-11-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/584977",
+      "submitted": false
+    },
+    {
+      "title": "[ipynb] Project Preliminary Submission",
+      "course": "CE 93",
+      "dueDate": "2023-11-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/584977",
+      "submitted": false
     }
   ]
 };
