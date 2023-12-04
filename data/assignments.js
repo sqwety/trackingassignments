@@ -46,8 +46,8 @@ assignments = {
       "title": "Homework 7 - Course Review",
       "course": "CE 11",
       "dueDate": "2023-12-11T08:00:00",
-      "link": "https://www.gradescope.com/courses/584827",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/584827/assignments/3728245/submissions/217506600",
+      "submitted": true
     }
   ],
   "CE 70": [
