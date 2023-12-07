@@ -199,6 +199,20 @@ assignments = {
       "dueDate": "2023-11-29T23:59:00",
       "link": "https://www.gradescope.com/courses/584977/assignments/3730084/submissions/216691927",
       "submitted": true
+    },
+    {
+      "title": "Final Report",
+      "course": "CE 93",
+      "dueDate": "2023-12-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/584977",
+      "submitted": false
+    },
+    {
+      "title": "[ipynb] Project Final Submission",
+      "course": "CE 93",
+      "dueDate": "2023-12-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/584977",
+      "submitted": false
     }
   ]
 };
