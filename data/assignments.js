@@ -97,8 +97,8 @@ assignments = {
       "title": "Assignment 6",
       "course": "CE 70",
       "dueDate": "2023-11-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/629573",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/629573/assignments/3613033/submissions/219237845",
+      "submitted": true
     },
     {
       "title": "Structural Geology",
@@ -125,8 +125,8 @@ assignments = {
       "title": "Assignment 7",
       "course": "CE 70",
       "dueDate": "2023-12-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/629573",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/629573/assignments/3728888/submissions/219237893",
+      "submitted": true
     }
   ],
   "CE 93": [
