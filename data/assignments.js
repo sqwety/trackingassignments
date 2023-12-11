@@ -97,7 +97,7 @@ assignments = {
       "title": "Assignment 6",
       "course": "CE 70",
       "dueDate": "2023-11-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/629573/assignments/3613033/submissions/219237845",
+      "link": "https://www.gradescope.com/courses/629573/assignments/3613033/submissions/219278590",
       "submitted": true
     },
     {
@@ -111,8 +111,8 @@ assignments = {
       "title": "GIS #1",
       "course": "CE 70",
       "dueDate": "2023-11-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/629573",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/629573/assignments/3666615/submissions/219277943",
+      "submitted": true
     },
     {
       "title": "GIS #2 - Mussel Rock and Montara Mountain",
