@@ -104,8 +104,8 @@ assignments = {
       "title": "Structural Geology",
       "course": "CE 70",
       "dueDate": "2023-11-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/629573",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/629573/assignments/3666373/submissions/219265555",
+      "submitted": true
     },
     {
       "title": "GIS #1",
