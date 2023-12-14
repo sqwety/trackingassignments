@@ -76,8 +76,8 @@ assignments = {
       "title": "Field Trip Report",
       "course": "CE 70",
       "dueDate": "2023-10-19T08:00:00",
-      "link": "https://www.gradescope.com/courses/629573",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/629573/assignments/3523830/submissions/220250867",
+      "submitted": true
     },
     {
       "title": "Groundwater",
