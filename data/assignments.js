@@ -1,3 +1,3 @@
 assignments = {
-  "CivEng 30/MecEng 85": []
+  "CivEng C30/MecEng C85": []
 };
