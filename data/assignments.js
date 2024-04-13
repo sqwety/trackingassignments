@@ -74,6 +74,13 @@ assignments = {
       "title": "HW11",
       "course": "CivEng C30/MecEng C85",
       "dueDate": "2024-04-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/711745/assignments/4011627/submissions/246441396",
+      "submitted": true
+    },
+    {
+      "title": "HW12",
+      "course": "CivEng C30/MecEng C85",
+      "dueDate": "2024-04-19T23:59:00",
       "link": "https://www.gradescope.com/courses/711745",
       "submitted": false
     }
