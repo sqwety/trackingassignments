@@ -32,15 +32,15 @@ assignments = {
       "title": "HW 05",
       "course": "MATH 54 LEC 1-2 HWs and Quizzes",
       "dueDate": "2024-09-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/831899",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/831899/assignments/4772473/submissions/268174866",
+      "submitted": true
     },
     {
       "title": "HW 06",
       "course": "MATH 54 LEC 1-2 HWs and Quizzes",
       "dueDate": "2024-09-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/831899",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/831899/assignments/4772474/submissions/268174926",
+      "submitted": true
     },
     {
       "title": "HW 07",
