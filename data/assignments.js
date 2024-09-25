@@ -1,4 +1,5 @@
 assignments = {
+  "MATH 54 LEC 1-2 Exams": [],
   "MATH 54 LEC 1-2 HWs and Quizzes": [
     {
       "title": "HW 01",
