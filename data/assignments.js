@@ -106,6 +106,27 @@ assignments = {
       "dueDate": "2024-10-07T23:59:00",
       "link": "https://www.gradescope.com/courses/831899",
       "submitted": false
+    },
+    {
+      "title": "HW 16",
+      "course": "MATH 54 LEC 1-2 HWs and Quizzes",
+      "dueDate": "2024-10-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/831899",
+      "submitted": false
+    },
+    {
+      "title": "HW 17",
+      "course": "MATH 54 LEC 1-2 HWs and Quizzes",
+      "dueDate": "2024-10-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/831899",
+      "submitted": false
+    },
+    {
+      "title": "HW 18",
+      "course": "MATH 54 LEC 1-2 HWs and Quizzes",
+      "dueDate": "2024-10-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/831899",
+      "submitted": false
     }
   ]
 };
