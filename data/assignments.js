@@ -167,8 +167,8 @@ assignments = {
       "title": "HW 24",
       "course": "MATH 54 LEC 1-2 HWs and Quizzes",
       "dueDate": "2024-10-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/831899",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/831899/assignments/4772510/submissions/283184751",
+      "submitted": true
     },
     {
       "title": "HW 25",
