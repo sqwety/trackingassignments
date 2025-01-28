@@ -1,4 +1,5 @@
 assignments = {
+  "CE 120 (Spring)": [],
   "Data 100": [
     {
       "title": "Syllabus Quiz",
