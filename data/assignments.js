@@ -1,5 +1,13 @@
 assignments = {
-  "CE 120 (Spring)": [],
+  "CE 120 (Spring)": [
+    {
+      "title": "HW1 2025",
+      "course": "CE 120 (Spring)",
+      "dueDate": "2025-01-31T11:10:00",
+      "link": "https://www.gradescope.com/courses/969549",
+      "submitted": false
+    }
+  ],
   "Data 100": [
     {
       "title": "Syllabus Quiz",
