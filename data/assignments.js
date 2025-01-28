@@ -35,13 +35,6 @@ assignments = {
       "dueDate": "2025-01-28T23:59:00",
       "link": "https://www.gradescope.com/courses/949942",
       "submitted": false
-    },
-    {
-      "title": "Lab 02A",
-      "course": "Data 100",
-      "dueDate": "2025-01-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
     }
   ]
 };
