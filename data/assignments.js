@@ -27,22 +27,22 @@ assignments = {
       "title": "Homework 1 Coding",
       "course": "Data 100",
       "dueDate": "2025-01-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949942/assignments/5626787/submissions/304288240",
+      "submitted": true
     },
     {
       "title": "Homework 1 Coding Written",
       "course": "Data 100",
       "dueDate": "2025-01-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949942/assignments/5626788/submissions/304288249",
+      "submitted": true
     },
     {
       "title": "Homework 1 (Math Prereqs)",
       "course": "Data 100",
       "dueDate": "2025-01-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949942/assignments/5626789/submissions/304288381",
+      "submitted": true
     },
     {
       "title": "Lab 01",
