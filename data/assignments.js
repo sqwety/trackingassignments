@@ -73,21 +73,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Homework 3 Written",
-      "course": "Data 100",
-      "dueDate": "2025-09-26T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
-    },
-    {
       "title": "Homework 4 Coding",
-      "course": "Data 100",
-      "dueDate": "2025-10-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
-    },
-    {
-      "title": "Homework 4 Written",
       "course": "Data 100",
       "dueDate": "2025-10-03T23:59:00",
       "link": "https://www.gradescope.com/courses/949942",
