@@ -71,6 +71,27 @@ assignments = {
       "dueDate": "2025-02-06T23:59:00",
       "link": "https://www.gradescope.com/courses/949942",
       "submitted": false
+    },
+    {
+      "title": "[Grad Project] Final Project Report",
+      "course": "Data 100",
+      "dueDate": "2025-12-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/949942",
+      "submitted": false
+    },
+    {
+      "title": "[Grad Project] Internal Peer Review 1",
+      "course": "Data 100",
+      "dueDate": "2025-10-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/949942",
+      "submitted": false
+    },
+    {
+      "title": "[Grad Project] Internal Peer Review 2",
+      "course": "Data 100",
+      "dueDate": "2025-11-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/949942",
+      "submitted": false
     }
   ]
 };
