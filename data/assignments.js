@@ -73,6 +73,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Homework 2B Coding",
+      "course": "Data 100",
+      "dueDate": "2025-02-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/949942",
+      "submitted": false
+    },
+    {
       "title": "Lab 02B",
       "course": "Data 100",
       "dueDate": "2025-02-11T23:59:00",
