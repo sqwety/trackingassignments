@@ -100,5 +100,14 @@ assignments = {
       "link": "https://www.gradescope.com/courses/949942",
       "submitted": false
     }
+  ],
+  "PHYSICS 7B-LEC-001-Spring 2025": [
+    {
+      "title": "Lab 1",
+      "course": "PHYSICS 7B-LEC-001-Spring 2025",
+      "dueDate": "2025-02-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/976163",
+      "submitted": false
+    }
   ]
 };
