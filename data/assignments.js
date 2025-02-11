@@ -11,8 +11,8 @@ assignments = {
       "title": "HW2 2025",
       "course": "CE 120 (Spring)",
       "dueDate": "2025-02-08T11:10:00",
-      "link": "https://www.gradescope.com/courses/969549",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/969549/assignments/5709125/submissions/307074363",
+      "submitted": true
     },
     {
       "title": "HW3 2025",
@@ -99,6 +99,13 @@ assignments = {
       "dueDate": "2025-02-11T23:59:00",
       "link": "https://www.gradescope.com/courses/949942",
       "submitted": false
+    },
+    {
+      "title": "Lecture Attendance",
+      "course": "Data 100",
+      "dueDate": "2025-05-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/949942/assignments/5765262/submissions/307103448",
+      "submitted": true
     }
   ],
   "PHYSICS 7B-LEC-001-Spring 2025": [
