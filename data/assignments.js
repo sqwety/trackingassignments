@@ -97,8 +97,8 @@ assignments = {
       "title": "Lab 02B",
       "course": "Data 100",
       "dueDate": "2025-02-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949942/assignments/5722037/submissions/307616514",
+      "submitted": true
     },
     {
       "title": "Lecture Attendance",
