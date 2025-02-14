@@ -83,15 +83,15 @@ assignments = {
       "title": "Homework 2B Coding",
       "course": "Data 100",
       "dueDate": "2025-02-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949942/assignments/5714774/submissions/308432140",
+      "submitted": true
     },
     {
       "title": "Homework 2B Written",
       "course": "Data 100",
       "dueDate": "2025-02-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949942/assignments/5714775/submissions/308432195",
+      "submitted": true
     },
     {
       "title": "Lab 02B",
