@@ -18,8 +18,8 @@ assignments = {
       "title": "HW3 2025",
       "course": "CE 120 (Spring)",
       "dueDate": "2025-02-14T11:10:00",
-      "link": "https://www.gradescope.com/courses/969549",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/969549/assignments/5750807/submissions/308884303",
+      "submitted": true
     },
     {
       "title": "HW4 2025",
