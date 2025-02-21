@@ -104,15 +104,15 @@ assignments = {
       "title": "Homework 3 Coding",
       "course": "Data 100",
       "dueDate": "2025-02-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949942/assignments/5714776/submissions/310776228",
+      "submitted": true
     },
     {
       "title": "Homework 3 Written",
       "course": "Data 100",
       "dueDate": "2025-02-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949942/assignments/5714777/submissions/310777638",
+      "submitted": true
     },
     {
       "title": "Homework 4 Coding",
