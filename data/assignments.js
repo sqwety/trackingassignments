@@ -162,6 +162,13 @@ assignments = {
       "dueDate": "2025-02-25T23:59:00",
       "link": "https://www.gradescope.com/courses/949942",
       "submitted": false
+    },
+    {
+      "title": "Lab 05",
+      "course": "Data 100",
+      "dueDate": "2025-02-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/949942",
+      "submitted": false
     }
   ],
   "PHYSICS 7B-LEC-001-Spring 2025": [
