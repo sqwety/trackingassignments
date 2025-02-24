@@ -25,8 +25,8 @@ assignments = {
       "title": "HW4 2025",
       "course": "CE 120 (Spring)",
       "dueDate": "2025-02-21T11:10:00",
-      "link": "https://www.gradescope.com/courses/969549",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/969549/assignments/5791193/submissions/311568108",
+      "submitted": true
     },
     {
       "title": "HW5 2025",
@@ -160,13 +160,6 @@ assignments = {
       "title": "Lab 04",
       "course": "Data 100",
       "dueDate": "2025-02-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
-    },
-    {
-      "title": "Lab 05",
-      "course": "Data 100",
-      "dueDate": "2025-02-27T23:59:00",
       "link": "https://www.gradescope.com/courses/949942",
       "submitted": false
     }
