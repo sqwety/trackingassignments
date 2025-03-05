@@ -160,8 +160,8 @@ assignments = {
       "title": "Lab 05",
       "course": "Data 100",
       "dueDate": "2025-03-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949942/assignments/5839310/submissions/314525858",
+      "submitted": true
     },
     {
       "title": "Grade Report",
