@@ -183,6 +183,20 @@ assignments = {
       "dueDate": "2025-03-11T23:59:00",
       "link": "https://www.gradescope.com/courses/949942",
       "submitted": false
+    },
+    {
+      "title": "Project A1 Coding",
+      "course": "Data 100",
+      "dueDate": "2025-10-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/949942",
+      "submitted": false
+    },
+    {
+      "title": "Project A1 Written",
+      "course": "Data 100",
+      "dueDate": "2025-10-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/949942",
+      "submitted": false
     }
   ],
   "PHYSICS 7B-LEC-001-Spring 2025": [
