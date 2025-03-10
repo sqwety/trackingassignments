@@ -213,6 +213,13 @@ assignments = {
       "dueDate": "2025-02-13T23:59:00",
       "link": "https://www.gradescope.com/courses/976163/assignments/5724719/submissions/308462874",
       "submitted": true
+    },
+    {
+      "title": "Lab 2",
+      "course": "PHYSICS 7B-LEC-001-Spring 2025",
+      "dueDate": "2025-03-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/976163",
+      "submitted": false
     }
   ]
 };
