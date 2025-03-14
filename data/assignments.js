@@ -199,6 +199,27 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Project A1 Coding",
+      "course": "Data 100",
+      "dueDate": "2025-03-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/949942",
+      "submitted": false
+    },
+    {
+      "title": "Project A1 Written",
+      "course": "Data 100",
+      "dueDate": "2025-03-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/949942",
+      "submitted": false
+    },
+    {
+      "title": "Lab 07",
+      "course": "Data 100",
+      "dueDate": "2025-03-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/949942",
+      "submitted": false
+    },
+    {
       "title": "Midterm (Online)",
       "course": "Data 100",
       "dueDate": "2025-03-12T22:10:00",
