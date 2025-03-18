@@ -216,8 +216,8 @@ assignments = {
       "title": "Lab 07",
       "course": "Data 100",
       "dueDate": "2025-03-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949942/assignments/5917909/submissions/317974742",
+      "submitted": true
     },
     {
       "title": "Midterm (Online)",
@@ -239,8 +239,8 @@ assignments = {
       "title": "Lab 2",
       "course": "PHYSICS 7B-LEC-001-Spring 2025",
       "dueDate": "2025-03-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/976163",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/976163/assignments/5916873/submissions/317980875",
+      "submitted": true
     }
   ]
 };
