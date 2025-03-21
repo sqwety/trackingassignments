@@ -46,6 +46,13 @@ assignments = {
       "title": "HW7 2025",
       "course": "CE 120 (Spring)",
       "dueDate": "2025-03-21T11:10:00",
+      "link": "https://www.gradescope.com/courses/969549/assignments/5939649/submissions/319001231",
+      "submitted": true
+    },
+    {
+      "title": "HW8 2025",
+      "course": "CE 120 (Spring)",
+      "dueDate": "2025-04-04T11:10:00",
       "link": "https://www.gradescope.com/courses/969549",
       "submitted": false
     }
@@ -181,7 +188,7 @@ assignments = {
       "title": "Grade Report",
       "course": "Data 100",
       "dueDate": "2025-05-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942/assignments/5846904/submissions/318603621",
+      "link": "https://www.gradescope.com/courses/949942/assignments/5846904/submissions/319017145",
       "submitted": true
     },
     {
