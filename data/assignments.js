@@ -227,6 +227,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Lab 08",
+      "course": "Data 100",
+      "dueDate": "2025-04-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/949942",
+      "submitted": false
+    },
+    {
       "title": "Project A2 Coding",
       "course": "Data 100",
       "dueDate": "2025-04-03T23:59:00",
