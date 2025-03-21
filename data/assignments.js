@@ -202,15 +202,15 @@ assignments = {
       "title": "Project A1 Coding",
       "course": "Data 100",
       "dueDate": "2025-03-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949942/assignments/5900458/submissions/318909285",
+      "submitted": true
     },
     {
       "title": "Project A1 Written",
       "course": "Data 100",
       "dueDate": "2025-03-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949942/assignments/5900459/submissions/318910392",
+      "submitted": true
     },
     {
       "title": "Lab 07",
