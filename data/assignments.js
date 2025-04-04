@@ -288,6 +288,13 @@ assignments = {
       "dueDate": "2025-04-10T23:59:00",
       "link": "https://www.gradescope.com/courses/949942",
       "submitted": false
+    },
+    {
+      "title": "Homework 6 (Statistics)",
+      "course": "Data 100",
+      "dueDate": "2025-04-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/949942",
+      "submitted": false
     }
   ],
   "PHYSICS 7B-LEC-001-Spring 2025": [
