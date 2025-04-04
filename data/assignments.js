@@ -52,7 +52,7 @@ assignments = {
     {
       "title": "HW8 2025",
       "course": "CE 120 (Spring)",
-      "dueDate": "2025-04-04T11:10:00",
+      "dueDate": "2025-04-05T11:10:00",
       "link": "https://www.gradescope.com/courses/969549",
       "submitted": false
     }
@@ -258,6 +258,13 @@ assignments = {
       "title": "Project A2 Written",
       "course": "Data 100",
       "dueDate": "2025-04-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/949942",
+      "submitted": false
+    },
+    {
+      "title": "Lab 09",
+      "course": "Data 100",
+      "dueDate": "2025-04-08T23:59:00",
       "link": "https://www.gradescope.com/courses/949942",
       "submitted": false
     },
