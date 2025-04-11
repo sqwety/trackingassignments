@@ -322,7 +322,7 @@ assignments = {
     {
       "title": "Lab3",
       "course": "PHYSICS 7B-LEC-001-Spring 2025",
-      "dueDate": "2025-04-24T23:59:00",
+      "dueDate": "2025-04-12T23:59:00",
       "link": "https://www.gradescope.com/courses/976163/assignments/5916916/submissions/323618203",
       "submitted": true
     }
