@@ -279,22 +279,22 @@ assignments = {
       "title": "Homework 6 Coding",
       "course": "Data 100",
       "dueDate": "2025-04-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949942/assignments/6019473/submissions/324431663",
+      "submitted": true
     },
     {
       "title": "Homework 6 Written",
       "course": "Data 100",
       "dueDate": "2025-04-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949942/assignments/6019474/submissions/324431692",
+      "submitted": true
     },
     {
       "title": "Homework 6 (Statistics)",
       "course": "Data 100",
       "dueDate": "2025-04-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/949942",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949942/assignments/6019477/submissions/324431552",
+      "submitted": true
     },
     {
       "title": "Lab 10",
