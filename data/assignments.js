@@ -309,6 +309,20 @@ assignments = {
       "dueDate": "2025-04-15T23:59:00",
       "link": "https://www.gradescope.com/courses/949942",
       "submitted": false
+    },
+    {
+      "title": "Homework 7 Coding",
+      "course": "Data 100",
+      "dueDate": "2025-04-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/949942",
+      "submitted": false
+    },
+    {
+      "title": "Homework 7 Written",
+      "course": "Data 100",
+      "dueDate": "2025-04-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/949942",
+      "submitted": false
     }
   ],
   "PHYSICS 7B-LEC-001-Spring 2025": [
